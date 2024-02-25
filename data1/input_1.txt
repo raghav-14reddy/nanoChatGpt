@@ -1,0 +1,201 @@
+<endOfText>
+<human> What are the treatment methods in Ayurveda?<endOfText>
+<bot> The treatment in Ayurveda can be classified broadly into two methods- a. Shamana Chikitsa (Alleviating Therapy) b. Sodhana Chikitsa (Purification Therapy)<endOfText>
+<human> What are the methods of diagnosis in Ayurveda?<endOfText>
+<bot> There are three main methods of diagnosis in Ayurveda .They are Darsana Pareeksha – By observing the patient’s physical signs and symptoms.<endOfText>
+<human> What is the cause of health &amp; diseases according Ayurveda?<endOfText>
+<bot> The harmony and the balance of the Doshas, Dhatus, Malas and Agni in the body is the primary condition of the health.<endOfText>
+<human> What are the symptoms of Kapha prakriti (body type) person?<endOfText>
+<bot> Body frame-medium to broad. Easily gains Weight. Skin is smooth, thick and slightly oily. Sweating is moderate. Appetite is moderate and bowel habit is regular.They are of stable nature. From them it takes time to memorize but once happen, it is forever<endOfText>
+<human> What are the symptoms of Pitta prakriti (body type) person?<endOfText>
+<bot> They are of medium body frame. Skin usually delicate, light colored and prone to sunburn. Sweating is excessive. Good appetite and rarely constipated. Have capacity to perform vigorous exercise. They are practical in life. Memory- good.<endOfText>
+<human> What are the symptoms of Vata prakriti (body type) person?<endOfText>
+<bot> These persons are either short/long but often with a thin body frame, underweight. Skin is dark, dry with cracksAppetite- variable, mostly suffer from constipation. Sleep-light. They remember easily and forget easily &amp; are very active.<endOfText>
+<human> How many types of Prakriti or body type?<endOfText>
+<bot> There are seven possible Prakriti (constitution) types – a) Vata Prakriti b) Pitta Prakriti c) Kapha Prakriti d) Vata – Pitta Prakrit e) Vata – Kapha Prakriti f) Pitta – Kapha Prakriti g) Tridosha Prakriti<endOfText>
+<human> What is Prakriti or Ayurvedic Body type?<endOfText>
+<bot> Every person is born with a definite genetic constitution, depending upon Doshas, there are three major types of Prakriti.<endOfText>
+<human> What is the concept of Agni in Ayurveda?<endOfText>
+<bot> Agni is considered as biological fire Ayurveda considers about thirteen types of &#039;Agnis&#039;. 1. Jatharagni -. 2. Dhatvagni 3. Bhutagni<endOfText>
+<human> What is meaning of Mala in Ayurveda?<endOfText>
+<bot> The word &#039;Mala&#039; means excretal products. Ayurveda has a unique concept of Malas. e.g common excreta - urine. Excess urination may cause dehydration and electrolyte imbalance.<endOfText>
+<human> IS AYURVEDA RECOGNISED BY W.H.O<endOfText>
+<bot> W.H.O. has an open mind on Traditional Medicine. However, it endorses only that therapy which has solid scientific evidence with no toxicity. In view of this Ayurveda is duly recognised by W.H.O.<endOfText>
+<human> IS THERE ANY RATIONALE BEHIND INTEGRTING AYURVEDA AND WESTERN MEDICINE<endOfText>
+<bot> Ayurvedic treatment.Ayurveda helps for a synergistic activity while at other places to antagonise and minmise the toxicity of modern drugs.<endOfText>
+<human> IS THERE SCOPE FOR AYURVEDA IN THE CONTEMPORARY PERIOD<endOfText>
+<bot> Ayurveda has a wide scope as far as the prevention of disease, promotion of health and its preservation are concerned<endOfText>
+<human> HOW ARE AYURVEDIC MEDICINES MARKETED<endOfText>
+<bot> Ayurvedic medicines are marketed in various forms. The main ones are tablets, pills, powders, fermentation products (Asva-arishta), decoctions, medicated fats (Ghrita and Tail).<endOfText>
+<human> WHERE DO RAW MATERIALS FOR MANUFACTURING AYURVEDIC MEDICINES COME FROM<endOfText>
+<bot> Whatever is natural whether belonging to plants or animals or minerals: all are considered the source of raw material for Ayurvedic medicines.<endOfText>
+<human> WHAT ARE THE MAIN CLASSICAL REFERENCE BOOKS OF AYURVEDA?<endOfText>
+<bot> The main classical texts for reference of Ayurvedic principles comprise of Charak Samhita, Susrut Samhita, Astang Hridaya, Sharangdhar Samhita, Madhav Nidan, Kashyap Samhita, Bhavprakash and Bhaisajya Ratnavali etc.<endOfText>
+<human> HOW IS DIAGNOSIS DONE IN AYURVEDA?<endOfText>
+<bot> Inspection, palpation, percussion and interrogation.<endOfText>
+<human> What is the basic philosophy of health anddisease in Ayurveda ?<endOfText>
+<bot> As per Ayurveda, ‘Health’ is a state of equilibrium of normal functions of doshas, Dhatus, malas and Agni with delighted body, mind and soul.<endOfText>
+<human> How is Ayurved different from Allopathy/modern medicines?<endOfText>
+<bot> Modern medicine treats the symptoms in the short term, rather than addressing the root cause of a patient’s suffering. Ayurveda looks at a longer-term solution to a patient suffering from diseases.<endOfText>
+<human> Which virus caused the 2009 swine flu pandemic?<endOfText>
+<bot> H1N1 Influenza virus<endOfText>
+<human> Who is considered as the father of medicine<endOfText>
+<bot> Hippocrates<endOfText>
+<human> On what part of the body is a sphygmomanometer used?<endOfText>
+<bot> Arm<endOfText>
+<human> Which French scientists developed vaccine for rabies?<endOfText>
+<bot> Louis Pasteur and Émile Roux<endOfText>
+<human> Who performed the first successful human heart transplant?<endOfText>
+<bot> Christiaan Barnard<endOfText>
+<human> Who developed the first safe and effective vaccine for polio?<endOfText>
+<bot> Jonas Edward Salk<endOfText>
+<human> What is our hereditary unit ‘gene’ made up of?<endOfText>
+<bot> DNA<endOfText>
+<human> Which is the longest bone in the human body?<endOfText>
+<bot> Femur (Thigh Bone)<endOfText>
+<human> What is the name for fear of closed spaces?<endOfText>
+<bot> Claustrophobia<endOfText>
+<human> What are Tridoshas?<endOfText>
+<bot> Three Doshas namely Vata Pitta and Kaphaare the basic constituents of the body, responsible for maintaining homeostasis in the body.<endOfText>
+<human> What are Pancha Mahabhuta?<endOfText>
+<bot> As per Ayurveda, Pancha Mahabhuta means &quot;five elements&quot; &amp; are said to be present in everything in the universe &amp; human body. These elements are: Prithvi(Earth), Jal (Water), Agni (Fire), Vayu (Air), Aakasha(Space ).<endOfText>
+<human> Who is the author of the Yogdarshana shastra?<endOfText>
+<bot> Acharya Patanjali.<endOfText>
+<human> Is Rasa-shastra a branch of Ayureda?<endOfText>
+<bot> Rasa-shastra was not a branch of Ayurveda, but eventually for the treatment of ailments of human beings it has been blended with Ayurveda with the passage of time.<endOfText>
+<human> What are the Five Panchakarmas?<endOfText>
+<bot> The five panchkarmas are Vamana(Emesis), Virechana(Purgation), Basti (Enema), Nasya (Nasal Invasion), Raktamokshana (Bloodletting).<endOfText>
+<human> What is Panchakarma?<endOfText>
+<bot> Panchakarma is the unique purification &amp; detoxification process of body which ultimately helps in the treatment of the diseases. Panchakarma are five in number.<endOfText>
+<human> Name shadrasa important for a balanced meal?<endOfText>
+<bot> The six taste are known as Shadrasa Madhur Amla Lavana Katu Tikta Kashaya<endOfText>
+<human> What are laghutrayi in Ayurveda?<endOfText>
+<bot> Madhavnidan, Bhavprakash ,Sharangshara Samhita.<endOfText>
+<human> Name the scholar who wrote the treatise on Ayurveda?<endOfText>
+<bot> Agnivesha<endOfText>
+<human> What is Brihattrayi ?<endOfText>
+<bot> The three basic text of ayurveda are: Charak Samhita Sushruta samhita Ashtang hridaya<endOfText>
+<human> What is Trividha Pariksha ?<endOfText>
+<bot> Darshan, sparshan, prashan is the three main examining tools to diagnose a patient.<endOfText>
+<human> What is Trisutra Ayurveda ?<endOfText>
+<bot> Hetu( cause,( sign&amp; sympathy), Aushadhi( treatment).<endOfText>
+<human> What is the normal life span of a Red Blood Cell (RBC)?<endOfText>
+<bot> 120 days<endOfText>
+<human> Where did the Sowa-Rigpa traditional system of medicine originate?<endOfText>
+<bot> Tibet<endOfText>
+<human> What is currently the most common cause of death in humans?<endOfText>
+<bot> Heart disease<endOfText>
+<human> What is the important function your ears do, other than hearing?<endOfText>
+<bot> Balance and equilibrium<endOfText>
+<human> Which among the following is a disease affecting the skin?<endOfText>
+<bot> Eczema<endOfText>
+<human> From which plant was the chemotherapy medication, Vinblastine isolated<endOfText>
+<bot> Vinca/ Periwincle<endOfText>
+<human> Who was the author of the classic work “Ashtangahridayasa?hita”?<endOfText>
+<bot> Vagbhata<endOfText>
+<human> Which ornamental plant is used for skin treatment in traditional medic<endOfText>
+<bot> Aloe vera<endOfText>
+<human> What does tachycardia and bradycardia mean?<endOfText>
+<bot> Rapid heartbeat and lower heartbeat<endOfText>
+<human> In which common medicinal plant is the chemical constituent ‘curcumin’<endOfText>
+<bot> Turmeric<endOfText>
+<human> How many Paksha in a Masa (Month)?<endOfText>
+<bot> 2 Paksha i.e. Krishna Paksha and Shukla Paksha together make one masa.<endOfText>
+<human> What is Paksha?<endOfText>
+<bot> 15 Ahoratra make one Paksha.<endOfText>
+<human> How many Muhurata make one Ahoratra.<endOfText>
+<bot> 13 Muhurata make one Ahoratra.<endOfText>
+<human> What is Ahoratra according to Ayurveda?<endOfText>
+<bot> One day and one night together make one Ahoratra. It is of 24 Hrs.<endOfText>
+<human> A day consist of how many Prahara?<endOfText>
+<bot> A day consist of 8 Prahara.<endOfText>
+<human> How many minutes make a Muhurata?<endOfText>
+<bot> 48 Minutes make a Muhurata.<endOfText>
+<human> How many types of Kapha Dosha?<endOfText>
+<bot> Kledaka, Avalambaka, Bodhaka, Tarpaka and Shleshaka are the five types of Kapha Dosha.<endOfText>
+<human> How many types of Pita Dosha?<endOfText>
+<bot> Pachaka, Ranjaka, Alochaka, Sadhaka and Bhrajaka are the five types of Pita Dosha.<endOfText>
+<human> How many types of Vata Dosha?<endOfText>
+<bot> Prana, Udana, Samana, Apana and Vyana are the five types of Vata Dosha.<endOfText>
+<human> What is the origin of Pancha Mahabhuta?<endOfText>
+<bot> Pancha Mahabhuta are originated from Panchtanmantra.<endOfText>
+<human> Which is the place of Agya Chakra?<endOfText>
+<bot> The place of Agya Chakra is between the eyebrows.<endOfText>
+<human> Which is the place of Vishudha Chakra?<endOfText>
+<bot> The place of Vishudha Chakra is Throat region.<endOfText>
+<human> Which is the place of Anahata Chakra?<endOfText>
+<bot> The place of Anahata Chakra is in Heart region.<endOfText>
+<human> Which is the place of Manipura Chakra?<endOfText>
+<bot> The place of Manipura Chakra is in the umbilicus<endOfText>
+<human> Which is the place of Swadhisthana Chakra?<endOfText>
+<bot> The place of Swadhisthana Chakra is in between Muladhara Chakra and Manipura Chakra.<endOfText>
+<human> Which is the place of Muladhara Chakra?<endOfText>
+<bot> The place of Muladhara Chakra is near anal region.<endOfText>
+<human> What are shat chakra according to Astang Yoga<endOfText>
+<bot> Muladhara Chakra, Swadhisthana Chakra, Manipura Chakra, Anahata Chakra, Vishudha Chakra, Agya Chakra<endOfText>
+<human> What are five niyam of Astang Yoga?<endOfText>
+<bot> Shaucha, Santosha, Tapa, Swadhayaya, Ishwara Pranidhana<endOfText>
+<human> What are five yam of Astang Yoga?<endOfText>
+<bot> Ahinsa, Satya, Asteya, Aparigraha, Brahmcharya<endOfText>
+<human> What are yogic Shatakarm according to Patanjali Yog Sutra<endOfText>
+<bot> Dhauti, Basti, Neti, Nauli, Tratak, Kapal Bhati<endOfText>
+<human> What are four Purusharthas?<endOfText>
+<bot> Dharma (righteousness, moral values); Artha (prosperity, economic values); Kama (pleasure, love, psychological values); and Moksha (liberation, spiritual values).<endOfText>
+<human> What is Ashtanga Ayurveda?<endOfText>
+<bot> Asthtanga Ayurveda constitutes 8 branches of ayurveda namely. Kaya Chikitsa (Medicine), Bala / kaumarya bhritya (Paediatrics), Graha Chikitsa (Bhoot Vidya), Shalakaya (ENT), Shalaya (Surgery), Agada, Rasayana (Rejuvenation Therapy), Vajikarana Chikitsa<endOfText>
+<human> What AYUSH stands for?<endOfText>
+<bot> AYUSH stands for 5 different Streams of Indian System of Medicines. A- Ayurveda Y- Yoga U- Unani S- Siddha H- Homeopathy<endOfText>
+<human> Who is the Father of Surgery?<endOfText>
+<bot> Acharaya Sushruta is known as Father of Surgery. He was the first person to introduce Surgery to the world.<endOfText>
+<human> Who is the Father of Indian Medicine?<endOfText>
+<bot> Acharaya Charaka is known as Father of Indian Medicine.<endOfText>
+<human> What is the Basic Principle of Ayurveda?<endOfText>
+<bot> The basic principle of Ayurveda involves swasthasya swasthya rakshanam (maintenance of good health in healthy people), aaturasya vikara prasahamanam (cure of disease).<endOfText>
+<human> Who are the Vaidays/ Doctors of Deavs (Dieties) ?<endOfText>
+<bot> Ashwin au / Ashwini Kumar known to be Vaidas of the Deities.<endOfText>
+<human> Who is Father of Ayurveda?<endOfText>
+<bot> Lord Dhanvantri is known as the Father of Ayurveda.Lord Dhanwantri arose from Samudra-Manthan from the Ksheera Sagar with the nectar of immortality. He is known as Avtar (incarnation) of Lord Vishnu in the puranas.<endOfText>
+<human> What Are the four Vedas?<endOfText>
+<bot> Vedas are the ures written by Maharishi Veda Vyas during Vedic Kala. They are as follows: - 1. Riga Veda 2.Yajur Veda 3.Sama Veda 4.Athara Veda Ayurveda has been originated from Atharva-veda.<endOfText>
+<human> What is Ayurveda?<endOfText>
+<bot> Ayurveda derived from word ayur(life) and veda(science or knowledge).Ayurveda is an ancient science of Life with a holistic approach to health and personalized medicine.<endOfText>
+<human> What are the three doshas in Ayurveda?<endOfText>
+<bot> Vata, Pitta, and Kapha are the three doshas, representing different energies and governing various bodily functions.<endOfText>
+<human> How can I determine my dosha?<endOfText>
+<bot> An Ayurvedic practitioner can help you identify your dominant dosha through consultations and assessments.<endOfText>
+<human> What is the role of diet in Ayurveda?<endOfText>
+<bot> Diet plays a crucial role in balancing doshas. Ayurvedic principles recommend consuming foods sesuai to your dosha and digestive capacity.<endOfText>
+<human> What are some common Ayurvedic herbs?<endOfText>
+<bot> Ashwagandha, turmeric, ginger, triphala, and tulsi are some popular herbs used for various purposes.<endOfText>
+<human> How does yoga benefit health according to Ayurveda?<endOfText>
+<bot> Yoga postures, breathing exercises, and meditation promote physical and mental well-being, aligning with Ayurvedic principles of holistic health.<endOfText>
+<human> What is Panchakarma?<endOfText>
+<bot> Panchakarma is a detoxification process involving various techniques to cleanse the body and remove accumulated toxins.<endOfText>
+<human> How can I improve my sleep according to Ayurveda?<endOfText>
+<bot> Establishing a regular sleep schedule, practicing relaxation techniques before bed, and creating a calming sleep environment are recommended.<endOfText>
+<human> What are some Ayurvedic remedies for stress?<endOfText>
+<bot> Practices like meditation, yoga, and breathing exercises can help manage stress. Herbs like Ashwagandha and Brahmi may also be recommended by a practitioner.<endOfText>
+<human> How can I boost my digestion with Ayurveda?<endOfText>
+<bot> Eating mindfully, consuming easily digestible foods, and incorporating digestive spices like ginger and fennel can be beneficial.<endOfText>
+<human>  Can Ayurveda help with skin health?<endOfText>
+<bot> Ayurveda offers various practices and herbal remedies to promote healthy skin, including using specific oils, maintaining proper hydration, and dietary modifications.<endOfText>
+<human>  How does Ayurveda approach seasonal changes?<endOfText>
+<bot> Seasonal adjustments in diet, lifestyle, and self-care practices are recommended to maintain balance and adapt to changing environments.<endOfText>
+<human>  What are some Ayurvedic practices for boosting immunity?<endOfText>
+<bot> Maintaining a balanced diet, getting adequate sleep, regular exercise, and incorporating herbs like Amla and Giloy can support a healthy immune system.<endOfText>
+<human>  How can I manage headaches with Ayurveda?<endOfText>
+<bot> Applying cooling pastes like sandalwood paste to the forehead, practicing relaxation techniques, and identifying and addressing triggers can be helpful.<endOfText>
+<human>  Are there any Ayurvedic remedies for common colds?<endOfText>
+<bot> Drinking warm liquids like ginger tea with honey, gargling with salt water, and steam inhalation may provide relief. However, consulting a practitioner is crucial for proper diagnosis and treatment.<endOfText>
+<human>  Can Ayurveda help with weight management?<endOfText>
+<bot> Ayurvedic principles like mindful eating, consuming balanced meals, and incorporating specific herbs like Guggulu may support healthy weight management.<endOfText>
+<human>  How does Ayurveda approach menstrual health?<endOfText>
+<bot> Practices like maintaining a healthy diet, managing stress, and using herbal remedies like Shatavari can support menstrual health.<endOfText>
+<human>  Are there any Ayurvedic remedies for joint pain?<endOfText>
+<bot> Applying warm oil massages, using herbal pain relievers like Boswellia, and practicing gentle yoga poses may offer relief. However, consulting a practitioner for proper diagnosis is crucial.<endOfText>
+<human>  How can I improve my energy levels according to Ayurveda?<endOfText>
+<bot> Getting adequate sleep, consuming a balanced diet rich in essential nutrients, and practicing regular exercise can enhance energy levels.<endOfText>
+<human>  What are some Ayurvedic practices for detoxification?<endOfText>
+<bot> Following a seasonal cleanse, consuming detoxifying foods like fruits and vegetables, and incorporating herbs like Triphala can support detoxification.<endOfText>
+<human>  How can I learn more about Ayurveda?<endOfText>
+<bot> Consulting qualified Ayurvedic practitioners, reading reputable books and websites, and attending workshops or courses are valuable resources.<endOfText>

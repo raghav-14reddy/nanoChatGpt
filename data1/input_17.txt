@@ -1,0 +1,102 @@
+<endOfText>
+<human>What is the medicine Abhayarishta    used for? <endOfText>
+<bot>In Ayurveda, its main indications are Arsha, Agnimandya,
+Udararoga, Vibandha .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Amritarishta used for? <endOfText>
+<bot>In Ayurveda, its main indications are SarvaJvara, Jirna Jvara .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Aragvadharishta used for? <endOfText>
+<bot>In Ayurveda, its main indications are Kandu, Tvak Vikara. However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Aravindasava used for? <endOfText>
+<bot>In Ayurveda, its main indications are Balaroga, Balakshaya. However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Arjunarishta/ Parthadyarishta  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Hridroga, Hriddrava, Hrid- daurbalya, Moha, .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Ashokarishta used for? <endOfText>
+<bot>In Ayurveda, its main indications are Asrigdara, Shveta .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Ashvagandharishta   used for? <endOfText>
+<bot>In Ayurveda, its main indications are  Murchha, Apasmara, Shosha, Unmada, Karshya .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Balarishta   used for? <endOfText>
+<bot>In Ayurveda, its main indications are Daurbalya, Vataroga, Agnimandya, Karshya  .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Chandanasava  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Shukrameha, Mutrakriccha, Hridroga  .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Dashamularishta  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Vata Vyadhi, Daurbalya, Prasavottara roga  .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Drakshasava  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Aruchi, Hridroga, Pandu, Duarbalya, Kshaya .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Jirakadyarishta  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Sutikaroga, Agnimandya,Atisara,Grahaniroga .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Kanakasava used for? <endOfText>
+<bot>In Ayurveda, its main indications are Kasa, Shvasa, Rajayakshma, Kshatakshina .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Kumaryasava used for? <endOfText>
+<bot>In Ayurveda, its main indications are Rajodushti, Krichhrartav, Paktishula, Parinamashula, .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Kutajarishta  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Grahaniroga¸ Pravahika, Raktatisara, Agnimandya .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Khadirarishta used for? <endOfText>
+<bot>In Ayurveda, its main indications are  Tvak Roga, Kushtha, Krimi, Arbuda. However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Lodhrasava/Rodhrasava   used for? <endOfText>
+<bot>In Ayurveda, its main indications are Prameha, Pradara, Arsha Garbhasayaroga,  .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Lohasava   used for? <endOfText>
+<bot>In Ayurveda, its main indications are Pandu, Kamala, Shotha, Hridroga, Daurbalya. However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Mustakarishta   used for? <endOfText>
+<bot>In Ayurveda, its main indications are  Agnimandya, Ajirna, Grahaniroga, Visuchika .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine   Pippalyadyasava used for? <endOfText>
+<bot>In Ayurveda, its main indications are Grahaniroga, Agnimandya, Gulma, Udararoga, .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Rohitakarishta  used for? <endOfText>
+<bot>In Ayurveda, its main indications are  Pliha, Udararoga, Gulma, Kamala.However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Sarasvatarishta  used for? <endOfText>
+<bot>In Ayurveda, its main indications are  Apasmara, Manasa Dosha, Smritibhransha, Udvega.However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Ushirasava used for? <endOfText>
+<bot>In Ayurveda, its main indications are Pittajaroga, Daha, Trisha, Pittaja Netravyadhi .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Vasakasava  used for? <endOfText>
+<bot>In Ayurveda, its main indications are  Kasa, Shvasa, Raktapitta .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Punarnavasava  used for? <endOfText>
+<bot>In Ayurveda, its main indications are  Shotha, Pliha- Yakridroga, Mutraroga .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Arka  Yavani/Arka, Ajvayana   used for? <endOfText>
+<bot>In Ayurveda, its main indications are Trikshula, Agnimandya, Anaha,  .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Arka Shatpushpa/ Mishr eyarka   used for? <endOfText>
+<bot>In Ayurveda, its main indications are Mandagni, Adhamana, Shula, Krimi,Yonishula .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Arka Pudina  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Chhardi, Ajirna, Udarashula, Agnimandya .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Agastya Haritaki/ Agastya Rasayana  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Hikka, Kasa, Shvasa, Rasayana .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Bilvadi Leha  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Jirna Pravahika, Aruchi, Agnimandya, Praseka, Chhardi .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Brahama Rasayana  used for? <endOfText>
+<bot>In Ayurveda, its main indications are  Manodaurbalya, Jara, Smritibhransha.However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Chitraka Haritaki   used for? <endOfText>
+<bot>In Ayurveda, its main indications are  Pinasa, Kasa, Shvasa,.However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Chyavanprash Avaleha used for? <endOfText>
+<bot>In Ayurveda, its main indications are  Kasa,Shvasa, Rasayana .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Drakshavaleha   used for? <endOfText>
+<bot>In Ayurveda, its main indications are Pandu, Kamala, Halimaka, Daurbalya, Kshaya .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Haridrakhanda Paka  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Shitapitta, Kandu, Visphota, Dadru,Udarda, Kotha .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Kutajavaleha used for? <endOfText>
+<bot>In Ayurveda, its main indications are Atisara, Grahaniroga, Pravahika .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Kalyanak Guda   used for? <endOfText>
+<bot>In Ayurveda, its main indications are  Udararoga, Gulma, Bhagandar, Arsha.However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Kantakaryavaleha  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Hikka, Kasa, Shvasa, Jirna Pratishaya, Parshvashula  .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Kushmandaka Rasayana   used for? <endOfText>
+<bot>In Ayurveda, its main indications are Kasa, Shvasa, Urahkshata, Kshaya, Raktapitta, Amlapitta .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Puga Khanda/ Supari Paka  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Vandhyaroga, Pradara, Somaroga, Garbhadosha, Daurbalya .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Saubhagyashunthi Paka   used for? <endOfText>
+<bot>In Ayurveda, its main indications are Prasavottara Lakshana, Sutikaroga, Agnimandya,  .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Shatavariguda   used for? <endOfText>
+<bot>In Ayurveda, its main indications are Rajodosha, Yonidosha, Asrigdara, Padadaha, Karshya .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Vasavaleha  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Kasa , Shvasa, Jvara,  .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Vyaghri Haritaki  used for? <endOfText>
+<bot>In Ayurveda, its main indications are  Kasa, Shvasa, Svarakshaya, Pratishyaya, Pinasa.However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Punarnavadi Kashayam   used for? <endOfText>
+<bot>In Ayurveda, its main indications are Jvara, Kasa, Shotha .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Vyaghryadi Kashayam   used for? <endOfText>
+<bot>In Ayurveda, its main indications are Jvara, Kasa, Pinasa .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Dashamula Kvatha Churna  used for? <endOfText>
+<bot>In Ayurveda, its main indications are  Jvara, Sutikadosha, Shula, Shotha, Vatavyadhi .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Dashmula Katutraya Kvatha Churna  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Shvasa,Kasa,Parshva shula, Vataroga .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine Dhanyapanchaka Kashaya Churna   used for? <endOfText>
+<bot>In Ayurveda, its main indications are Amashula, Amatisara, Agnimandya, Aruchi .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>
+<human>What is the medicine  Guduchyadi Kashaya Churna  used for? <endOfText>
+<bot>In Ayurveda, its main indications are Agnimandhya, Pitta Dushti, Jvara .However it is not recommended to take any form of medication without consulting an Ayurvedic practitioner.Get well soon.<endOfText>

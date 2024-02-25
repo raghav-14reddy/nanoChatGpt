@@ -1,0 +1,71 @@
+<endOfText>
+<human>What is Vatavikara <endOfText>
+<bot>in Ayurveda, it is Disorders related to the Vata dosha.<endOfText>
+<human>What is Netraroga<endOfText>
+<bot>in Ayurveda, it is Eye disorders.<endOfText>
+<human>What is Malavarodha<endOfText>
+<bot>in Ayurveda, it is Constipation.<endOfText>
+<human>What is Sutikadosha <endOfText>
+<bot>in Ayurveda, it is Postpartum disorders.<endOfText>
+<human>What is Vrana<endOfText>
+<bot>in Ayurveda, it is Wounds or injuries.<endOfText>
+<human>What is Khalitya<endOfText>
+<bot>in Ayurveda, it is Hair loss.<endOfText>
+<human>What is Raktasrava.<endOfText>
+<bot>in Ayurveda, it is Bleeding disorders.<endOfText>
+<human>What is Svarabheda<endOfText>
+<bot>in Ayurveda, it is Voice disorders.<endOfText>
+<human>What is Arbuda<endOfText>
+<bot>in Ayurveda, it is tumors<endOfText>
+<human>What is Raktadushti<endOfText>
+<bot>in Ayurveda, it is Bleeding disorders. <endOfText>
+<human>What is Svarabheda<endOfText>
+<bot>in Ayurveda, it is Voice disorders.<endOfText>
+<human>What is Shulahara<endOfText>
+<bot>in Ayurveda, it is Pain management.<endOfText>
+<human>What is Pittadushti<endOfText>
+<bot>in Ayurveda, it is Pitta dosha imbalance. <endOfText>
+<human>What is Vatarakta<endOfText>
+<bot>in Ayurveda, it is Gout.<endOfText>
+<human>What is Shirogatavata<endOfText>
+<bot>in Ayurveda, it is Headache due to Vata imbalance.<endOfText>
+<human>What is Rajodosha<endOfText>
+<bot>in Ayurveda, it is Menstrual disorders.<endOfText>
+<human>What is Vishuchika<endOfText>
+<bot>in Ayurveda, it is Dysentery.<endOfText>
+<human>What is Kastartava<endOfText>
+<bot>in Ayurveda, it is Painful menstruation. <endOfText>
+<human>What is Garadosha<endOfText>
+<bot>in Ayurveda, it is Leprosy<endOfText>
+<human>What is Urahkshata<endOfText>
+<bot>in Ayurveda, it is Chest Injury<endOfText>
+<human>What is Yonishula<endOfText>
+<bot>in Ayurveda, it is Pelvic pain<endOfText>
+<human>What is Dhatukshaya<endOfText>
+<bot>in Ayurveda, it is Tissue depletion.<endOfText>
+<human>What is Vidvibandha<endOfText>
+<bot>in Ayurveda, it is Constipation due to neurological causes.<endOfText>
+<human>What is Gudapaka<endOfText>
+<bot>in Ayurveda, it is Anal disorders.<endOfText>
+<human>What is Shirahshula<endOfText>
+<bot>in Ayurveda, it is Headache.<endOfText>
+<human>What is Mahavataroga<endOfText>
+<bot>in Ayurveda, it is Severe skin diseases.<endOfText>
+<human>What is Hriddaha <endOfText>
+<bot>in Ayurveda, it is Heartburn.<endOfText>
+<human>What is Amavata<endOfText>
+<bot>in Ayurveda, it is Rheumatoid arthritis.<endOfText>
+<human>What is Shiroroga<endOfText>
+<bot>in Ayurveda, it is Head disorders.<endOfText>
+<human>What is Nadivrana<endOfText>
+<bot>in Ayurveda, it is Sinusitis.<endOfText>
+<human>What is Raktarsha<endOfText>
+<bot>in Ayurveda, it is Hemorrhoids.<endOfText>
+<human>What is Indralupta <endOfText>
+<bot>in Ayurveda, it is Alopecia areata.<endOfText>
+<human>What is Yoniroga<endOfText>
+<bot>in Ayurveda, it is Gynecological disorders.<endOfText>
+<human>What is Balaroga<endOfText>
+<bot>in Ayurveda, it is Pediatric diseases.<endOfText>
+<human>What is Hriddrava<endOfText>
+<bot>in Ayurveda, it is Cardiac effusion.<endOfText>

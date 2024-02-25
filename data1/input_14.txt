@@ -1,0 +1,95 @@
+<endOfText>
+<human>How does Ayurveda look at illness?<endOfText>
+<bot>Seeds of illness start in the mind. When the mind is under the influence of Rajas or Tamas it motivates sense organs towards unwholesome objects. T<endOfText>
+<human>Disese causing reason <endOfText>
+<bot>Digestive toxins formed as a byproduct of defective metabolism (Agni) provoke Vata, Pitta and Kapha. Digestive toxins (Ama) that are associated with dosha wander throughout the body and settle in different tissues and organs. Upon weakening the tissues and organs give refuge to various disease.<endOfText>
+<human>What are DHATUS?<endOfText>
+<bot>The anatomical make up of our body is done through systematic arrangement of DHATU (tissues).<endOfText>
+<human>Types of Dhatus<endOfText>
+<bot>There are 7 Dhatus namely RASA (plasma and lymph), RAKTA (blood), MAMSA (muscle), MEDA (fat), ASTI (bone), MAJJA (Marrow) and SHUKRA (reproductive tissues). <endOfText>
+<human>Dosha and Dhatus<endOfText>
+<bot>Doshas work through the Dhatus and make bodily functions possible. <endOfText>
+<human>Healthy dhatus<endOfText>
+<bot>When Dhatus are healthy they contribute to resistance against diseases and support longevity. Nourishment from the diet goes to support the formation and maintenance of the Dhatus.When Dhatus are healthy they contribute to resistance against diseases and support longevity. Nourishment from the diet goes to support the formation and maintenance of the Dhatus.<endOfText>
+<human>What is AGNI? x<endOfText>
+<bot>The ability of our bodies to digest and assimilate food is known as AGNI<endOfText>
+<human> What is AMA?<endOfText>
+<bot>When the Agni is diminished and the food is not properly broken down into nutrients it creates toxic substances known as AMA.<endOfText>
+<human>What does AGNI govern?<endOfText>
+<bot>It governs digestion, metabolism and assimilation of nutrients. In order for the Dhatus to function healthy and resist diseases it is very important that the nutrition is supplemented.<endOfText>
+<human>What disease from Ama?<endOfText>
+<bot>All systemic disease such as high cholesterol, diabetes, obesity, rheumatism and so on are directly or indirectly developed from AMA.<endOfText>
+<human>Can Ayurveda be integrated along with other systems of Medicine?<endOfText>
+<bot>Even though most of the ayurvedic supplements can be incorporated with other medical modalities, we advise you to use caution and consult your primary care provider before taking Ayurvedic supplements. <endOfText>
+<human>Can Ayurveda be integrated along with Allopathy?<endOfText>
+<bot>Ayurveda Medicines can generally be taken along with allopathic medicines. Moreover, Ayurveda Medicines are used as adjuvant to allopathic medicines in most of chronic and degenerative diseases.<endOfText>
+<human>Can Ayurveda be integrated along with Chinese Medicine?<endOfText><human><endOfText>
+<bot>Traditional Chinese medicines are similar to ayurvedic herbs, they can work synergistically and re-establish health.<endOfText>
+<human>What is Panchakarma?<endOfText>
+<bot>Panchakarma is a detoxification and rejuvenation therapy in Ayurveda. It consists of five therapeutic procedures: Vamana (emesis), Virechana (purgation), Basti (enema), Nasya (nasal administration of oils), and Rakta Mokshana (bloodletting). <endOfText>
+<human>Aim of Panchkarma?<endOfText>
+<bot>Panchakarma aims to eliminate toxins from the body and restore balance to the doshas.<endOfText>
+<human>Are Ayurvedic treatments safe?<endOfText>
+<bot>When administered by qualified practitioners, Ayurvedic treatments are generally safe. However, it's essential to consult with a trained Ayurvedic practitioner before starting any treatment, especially if you have underlying health conditions or are pregnant. Some herbal remedies may interact with medications or have side effects.<endOfText>
+<human>How long do Ayurvedic treatments take to show results?<endOfText>
+<bot>The duration of Ayurvedic treatment and the time it takes to see results vary depending on the individual's health condition, dosha imbalance, and the specific treatment being used. Some treatments may provide immediate relief, while others may require consistent practice over time to achieve desired results.<endOfText>
+<human>Can Ayurveda cure chronic diseases?<endOfText>
+<bot>While Ayurveda may help manage chronic diseases by addressing underlying imbalances and supporting the body's natural healing processes, it's essential to approach it as a complementary therapy alongside conventional medical treatments. Ayurvedic treatments aim to improve overall health and quality of life rather than providing a cure for specific diseases.<endOfText>
+<human>Are Ayurvedic treatments covered by insurance?<endOfText>
+<bot>In some cases, Ayurvedic treatments may be covered by insurance, depending on the policies of individual insurance providers and the specific treatment being received. However, coverage for Ayurvedic treatments may vary widely, so it's essential to check with your insurance provider for details.<endOfText>
+<human>Can Ayurveda help with weight loss?<endOfText>
+<bot>Ayurveda offers personalized approaches to weight management based on an individual's dosha constitution and imbalances. <endOfText>
+<human>what is Ayurveda diet for weight loss?<endOfText>
+<bot>This may include dietary modifications, herbal remedies, detoxification therapies, and lifestyle changes tailored to support healthy weight loss. However, it's essential to approach weight management holistically and consult with a qualified Ayurvedic practitioner for personalized guidance.<endOfText>
+<human>What should I expect during an Ayurvedic treatment session?<endOfText>
+<bot>During an Ayurvedic treatment session, you can expect a comprehensive assessment of your health history, current symptoms, and dosha constitution. The practitioner will then recommend personalized treatments based on your individual needs, which may include herbal remedies, dietary advice, lifestyle modifications, or therapeutic procedures.<endOfText>
+<human>Are Ayurvedic treatments effective for stress relief?<endOfText>
+<bot>Yes, Ayurvedic treatments can be effective for stress relief by promoting relaxation, reducing anxiety, and restoring balance to the nervous system. Techniques such as meditation, yoga, massage therapies, and specific herbal remedies can help manage stress and promote emotional well-being.<endOfText>
+<human>Can Ayurvedic treatments be self-administered at home?<endOfText>
+<bot>While some Ayurvedic practices like self-massage, herbal remedies, and dietary modifications can be safely practiced at home, more specialized treatments such as Panchakarma or certain therapies may require supervision by a trained practitioner. It's essential to receive proper guidance and instruction before attempting any Ayurvedic treatment at home.<endOfText>
+<human>What are the three doshas in Ayurveda?<endOfText>
+<bot>,The three doshas in Ayurveda are Vata, Pitta, and Kapha. They represent different combinations of the five elements and govern various physiological and psychological functions in the body.<endOfText>
+<human>What is Panchakarma therapy?<endOfText>
+<bot>,Panchakarma is a detoxification and rejuvenation therapy in Ayurveda. It involves five therapeutic procedures aimed at eliminating toxins from the body and restoring balance to the doshas. The five procedures are Vamana (emesis), Virechana (purgation), Basti (enema), Nasya (nasal administration of oils), and Rakta Mokshana (bloodletting).<endOfText>
+<human>Can Ayurveda treat skin disorders?<endOfText>
+<bot>,Yes, Ayurveda offers various treatments for skin disorders. Herbal remedies, dietary modifications, lifestyle changes, and external applications such as oils and pastes are commonly used to address skin issues like acne, eczema, psoriasis, and dermatitis.<endOfText>
+<human>What is Abhyanga massage?<endOfText>
+<bot>,Abhyanga is a traditional Ayurvedic massage technique that involves the application of warm herbal oils to the body. It helps nourish the skin, improve circulation, promote relaxation, and balance the doshas. Abhyanga is often used as part of daily self-care routines or as a preparatory therapy for Panchakarma.<endOfText>
+<human>What foods should Pitta dosha individuals avoid?<endOfText>
+<bot>,Individuals with a dominant Pitta dosha should avoid spicy, oily, and acidic foods, as these can aggravate Pitta dosha and lead to imbalances. Instead, they should focus on cooling, hydrating, and sweet foods to pacify Pitta.<endOfText>
+<human>Diet of Pitta dosha people?<endOfText>
+<bot> they should focus on cooling, hydrating, and sweet foods to pacify Pitta<endOfText>
+<human>What are the main treatment techniques?<endOfText>
+<bot>Ayurvedic approach to health is holistic and comprehensive. It uses diet, spices, herbs, supplements, Yoga therapy, breathing techniques, ayurvedic health counseling, detox procedures, body therapies, and rejuvenation methods. <endOfText>
+<human>How is treatment recommended?<endOfText>
+<bot>A qualified Ayurvedic practitioner can determine your body type and the dosha imbalance, and recommend a program to promote health or correct an imbalance.<endOfText>
+<human>How is Ayurveda a Holistic Medicine?<endOfText>
+<bot>Ayurveda does not believe in giving different medicines for different afflicted parts of body but rather takes a whole body approach, which will address disturbances of the whole person. More over in Ayurveda everything is individualized seeing person as a whole.<endOfText>
+<human>concept of disease in Ayurveda?<endOfText>
+<bot>The concept of disease in Ayurveda is that disease is a total affection of mind and body, the disturbance of the whole organism.<endOfText>
+<human>Are organs the cause of illness<endOfText>
+<bot>Individual organs are not the cause of illness but disturbance at the inner level is the cause of illness. <endOfText>
+<human>Are symptoms treated in Ayurveda?<endOfText>
+<bot>Management of only symptoms is not the approach of Ayurveda, rather it understands symptoms as manifestations of the overall imbalance of body and mind.<endOfText>
+<human>What importance do herbs have?<endOfText>
+<bot>They are absorbed easily and because of their different characteristics such as tastes, potencies, qualities they influence body and mind.<endOfText>
+<human>Where do raw materials for manufacturing Ayurvedic medicines come from?<endOfText>
+<bot>The classical products are manufactured at facilities that are specifically chosen by our experts. These facilities follow traditions of formulations that go back to several generations<endOfText>
+<human>What are body types?<endOfText>
+<bot>Ayurveda sees the influence of the WIND, SUN and WATER in our make up, as VATA PITTA and KAPHA influence formation and function of the body. Each of us has one or two DOSHAs infused into us as we grow in our mother s womb based on which our digestion, tissues, organs, immunity, sleep, and aging are characterized. <endOfText>
+<human>what heightens a dosha?<endOfText>
+<bot>Factors like parent s body types, mother s diet and lifestyle, seasonal variations and such factors heighten a particular dosha to effect our formation.<endOfText>
+<human>What is primary dosha?<endOfText>
+<bot>The primary Dosha that constitutes all aspects of our growth, development and wellbeing is called the body type. Diet and lifestyle that balances our body s primary dosha is health promoting and improves quality of life<endOfText>
+<human>What is the role of mind?<endOfText>
+<bot>The mind being under RAJASIK or TAMASIK influence is disease provocative. Hence a balanced of RAJAS with TAMAS situates the mind in SATVA. Ayurveda recommends diet, herbs, spices, yoga, meditation and lifestyle changes that promote SATVA.<endOfText>
+<human>How should mind work in Ayurveda treatments?<endOfText>
+<bot>The sensory experience that we have from various stimuli in our surroundings are conveyed by the sense organs to the mind and then to the consciousness. If the mind is not clear then it creates unwholesome experiences making us to eat, sleep and adopt a lifestyle that is disease causing.<endOfText>
+<human>What is Madhura in Ayurveda diet?<endOfText>
+<bot>Sweet foods increase the quality of kapha in the body and promote calmness, contentment, and harmonization of the mind.<endOfText>
+<human>What is Lavana in Ayurveda diet?<endOfText>
+<bot>Lavana (Salty) is composed of the elements water and fire. The salty taste adds warmth and moisture to the body, thus increasing kapha dampness and pitta heat. In small amounts, the salty taste aids digestion, is sedating, and softens the body tissues   all useful therapies for the Vata person. Pittas and kaphas must stay away from excess salt, which will cause aggravation.<endOfText>
+<human>What is Katu  in Ayurveda diet?<endOfText>
+<bot>Katu (Pungent) taste contains abundant amounts of the elements of fire and air. The pungent taste is heating, drying and stimulating, increasing the rate of metabolism, counteracting cold sensations and aiding in digestion. Kaphas can use a generous amount of spices in their diets to counteract their general dampness, coolness and stagnancy. Vatas can use some spice to warm them up, but they must use it with caution because it is also drying; they should to use spices with foods that are liquid, warm, and oily. Pittas are usually warm enough and may have problems with burning sensations, so they do not need much spice.<endOfText>
+<human>What is Amla in Ayurveda diet?<endOfText>
+<bot>Amla (Sour) taste contains the elements earth and fire, and is thirst relieving and nourishing. It dispels gas and stimulates growth of bodily tissues. Sour is good for Vatas, as it will warm, moisten and ground them. Kaphas should not eat much that is sour, as it will make them damper, and pittas may become overheated or experience burning sensations in the stomach and intestines.<endOfText>

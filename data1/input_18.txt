@@ -1,0 +1,134 @@
+<endOfText>
+<human>In AYUSH systems, what is the primary goal of treatment?<endOfText>
+<bot>Disease prevention and health promotion<endOfText>
+<human>What is the primary health benefit associated with consuming ginger, a common kitchen spice?<endOfText>
+<bot>Improved digestion and nausea relief<endOfText>
+<human>Which Ayurvedic herb is commonly used to support respiratory health and alleviate coughs and colds?<endOfText>
+<bot>Tulsi<endOfText>
+<human>Which  is an Ayurvedic herb commonly used to reduce stress and promote relaxation?<endOfText>
+<bot>Turmeric<endOfText>
+<human>“Aadhmayatepunarbhinna” is a characteristic feature of<endOfText>
+<bot>Kumbika<endOfText>
+<human>Rasa karpura is used in the treatment of<endOfText>
+<bot>Phiranga <endOfText>
+<human>Red oxide of Mercury is <endOfText>
+<bot>Girisindura<endOfText>
+<human>Swarnabhasm matra according to Rasatarangini<endOfText>
+<bot>1/8 to ¼ ratti <endOfText>
+<human>“Pratiloma sodhana” is indicated in<endOfText>
+<bot>Raktapitta <endOfText>
+<human>Raji janma, valinasa are found as prodromal symptoms in<endOfText>
+<bot>Udara<endOfText>
+<human>Loma harsha after administration of Vamaka dravya indicates<endOfText>
+<bot>Doshasthanebhyahprachalitam <endOfText>
+<human>Doshasthanebhyahprachalitam <endOfText>
+<bot>Bringarajam<endOfText>
+<human>“Ksharabudbudakopamam” is a lakshana of which sandhi roga. <endOfText>
+<bot>Upanaham<endOfText>
+<human>I have been recommended for a surgery due to slip disk. Is there any treatment that I may undergo in your hospital so as to avoid surgery?<endOfText>
+<bot>We do provide treatment for slip disc related problems.<endOfText>
+<human>I have been suffering from spondylitis for the last two years and is under severe pain at times? Do you have a treatment especially for this?<endOfText>
+<bot>Depending on the severity of the condition the treatment can be done in two ways.
+Home based wherein a few medicines can be tried at home on a regular basis and results observed.
+In-house treatment wherein special treatment like Pizhichil, Dhara, Kizhi etc. are conducted.<endOfText>
+<human>Is there any treatment for Arthritis (Osteo/Rheumatoid)?<endOfText>
+<bot>Arthritis is normally, well managed by Ayurvedic treatment modalities along with appropriate restrictions in diet and activities.<endOfText>
+<human>Is there any treatment for Asthma?<endOfText>
+<bot>The frequency and severity of attacks can be considerably reduced with regular medication and appropriate restrictions in diet.<endOfText>
+<human>Is there any permanent cure for Diabetes?<endOfText>
+<bot>Diabetes is a condition, which can be adequately controlled with Ayurvedic treatment and appropriate restrictions in diet. The probable complications of long standing Diabetes can also be minimized effectively. A permanent cure cannot be assured.<endOfText>
+<human>Is there any treatment to reduce the weight? <endOfText>
+<bot>A combination of appropriate medicines, special massage like Udwarthanam and adequate restrictions in diet is seen effective in reducing weight. However drastic reduction cannot be expected.<endOfText>
+<human>Is there any treatment in Ayurveda for Psychological problems?<endOfText>
+<bot>Yes. Ayurveda offers treatment for psychological problems including depression.<endOfText>
+<human>In ayurveda is there treatment for Multiple Sclerosis?<endOfText>
+<bot>Ayurvedic treatment has been found to be beneficial in the management of Multiple Sclerosis. The treatment is mainly aimed at reducing the rapidity of progression of the condition to a relatively fair extent.<endOfText>
+<human>Could you please suggest the best time to have ayurvedic treatment?
+<endOfText>
+<bot>Generally three seasons are considered best suited for conducting treatment. They are,
+Mid July – Mid August (Karkkidakam)
+Mid October – Mid November (Thulam)
+Mid February – Mid March (Kubham)
+Because these seasons have moderate weather conditions (heat, cold and rain). The fortnights immediately before and after these three months are also considered as acceptable<endOfText>
+<human>What is kashayam?<endOfText>
+<bot>Kashayam (Decoction) – Ayurveda makes use of the medicinal and healing power of biologically active chemicals like alkaloids, glycosides, and polysaccharides etc. in plants and herbs, extracting them from single herb or group of herbs to make a decoction for treating various health conditions.<endOfText>
+<human>What is Arishtam?<endOfText>
+<bot>ARISHTAM/ASAVAS (Fermented Formulation) – Arishtam is an Ayurvedic tonic or concoction prepared by the fermentation of medicinal plants and herbs. Arishtams/Asavas are prescribed for several diseases and health conditions. Since Arishtam possess both water-soluble and alcohol-soluble characteristics of the herbs they are highly effective<endOfText>
+<human>What is Hhritam?<endOfText>
+<bot>Ghritam (Ghee-Based) – Ghritam is medicated ghee, helpful in treating Vata and Pitta Doshas, very effective for issues related to digestion, memory, brainpower, voice, skin conditions, immunity, eyesight etc.<endOfText>
+<human>What is Lehyam?<endOfText>
+<bot>Lehyam (Electuary) – Lehyam is a semisolid malt/jam like medicine. Jaggery or sugar are blended with medicine or herb at high temperatures, which again gets mixed with spices, honey and ghee to form medicinal jam.<endOfText>
+<human>What is Gulika<endOfText>
+<bot>Gulika (Tablets) – Ayurvedic medicines in the form of tablets/pills.<endOfText>
+<human>What is churna / choorna ?<endOfText>
+<bot>Churna (Powdered Herb) – Churna/Choornam is an Ayurvedic medicine, in fine powder form, a blend of dried herbs, spices and other natural ingredients<endOfText>
+<human>What is Thailam?<endOfText>
+<bot>Thailam (Oil-Based) – Oil-based mix of herbs, shrubs, leaves, barks and other natural ingredients mainly for external application, which has both therapeutic and beauty care applications.<endOfText>
+<human>Home Remedies for Toothache<endOfText>
+<bot>Clove oil-Since the ancient times, Indian Ayurvedic practitioners have been using the aromatic spice clove and its oil to get rid of tooth ache. Not only it helps in subsiding the pain but also helps in getting rid of the soreness caused in the gums due to toothache. Clove oil is mostly extracted from the bud and stem of eugenol clove. This toothache home remedy helps relieve the pain by numbing the nerve.<endOfText>
+<human>Sore Throat HOME REMEDIES<endOfText>
+<bot>Sore throat has been mentioned as a prodromal symptom of common cold in Ayurveda. It has been described as pinprick like pain in the throat. Vata-Kapha are usually involved in causation of sore throat.AJOWAN SEEDS
+Ajwain has the capacity to treat not only cold and cough, but also acute pharyngitis. It works as an Expectorant and has Thymol which has expectorant properties.<endOfText>
+<human>Nausea HOME REMEDIES<endOfText>
+<bot>FRESH LEMON-Lemons contain citric acid, a naturally-occurring compound thought to aid digestion and soothe the stomach. Try adding freshly-squeezed lemon juice to water and sip throughout the day.<endOfText>
+<human>Home Remedies for Muscle Pain<endOfText>
+<bot>Almost all pains including muscular pain in the body are described as Vataja in origin in Ayurveda.Using Cumin oil as a topical rub on sore joints has been shown to significantly soothe pain and improve quality of life. MENTHOL-Menthol has been used as a topical pain reliever since ancient times. Menthol is known as a counterirritant. It works by causing the skin to feel cool and then warm.<endOfText>
+<human>Natural/Ayurvedic Home Remedies for Joint Pains<endOfText>
+<bot>Joint pains have broadly been classified under Sandhivata and Ama Vata by Ayurveda. While Ama Vata correlates to rheumatoid arthritis in terms of pathology, the other type is close to arthritis from ageing. In both forms of joint pains, there is an involvement of Vata. MUSTARD OIL-Mustard Oil has great benefits in healing all kinds of ailments in your body including knee pain. It helps to stimulate blood flow in the veins around the knee and reduce pain in muscles and joints.<endOfText>
+<human>Home Remedies for Indigestion<endOfText>
+<bot>This is known as Ajeerna in Ayurveda. It is a result of fasting or consumption of food before digestion of the earlier intake of food. Untimely food habits, heavy or dry food, psychological causes like fear, anger, jealousy etc., suppression of natural urges and excessive intake of water cause indigestion. A reduction in Pitta activity with an excessive Kapha characterizes the doshic profile of indigestion. ASAFETIDA-Hing, or asafoetida, is one of the wonder spices that can bring relief to gas problem immediately. Not only is it used to enhance the taste of various delicacies, but it is added to foods that are tough to digest. CURRY LEAVES-Curry leaves help to manage indigestion. According to Ayurveda, indigestion means the state of an incomplete process of digestion. Taking Curry leaves help to improve Agni (digestive fire) and digests the food easily.<endOfText>
+<human>Natural Remedies For Indigestion<endOfText>
+<bot>Carrots
+Carrots are known as power food and can help the stomach get better. In a blender, mix a few carrots, a banana and a bit of water. Drink this juice. It will help the tummy absorb all the acids and gas that are causing discomfort in the stomach.
+Carom Seeds
+One of the effective home remedies for indigestion is to roast a teaspoon of carom seeds in a pan, allow the seeds to cool and crush them lightly. With a rolling pin, mix together with a pinch of salt. It is very effective for stomach pain and provides relief from gas as well
+Yogurt
+Yogurt is a very effective remedy for people who have diarrhea and in digestion. Mix some crushed cumin seeds and salt in a bowl of yogurt and have it at least twice in a day.
+Ginger
+Add some grated ginger to a glass of warm water, add a teaspoon of honey and sip. One can add ginger to other forms of tea as well to cure the problem of indigestion.  Ginger honey combination is the best drink for acid reflux.<endOfText>
+<human>Use of Tulasi (Ocimum sanctum)<endOfText>
+<bot>Preparation/Dosage for Medicinal Use:
+Fevers - 2 tea spoon (tsp) leaf juice + 1tsp honey, 1 to 3 times a day.
+Cold & Catarrh - 1 tsp leaf juice + pinch of black pepper powder.
+Cough - 1 to 2 tsp leaf juice + 1 tsp vasa juice.
+Skin diseases - Equal proportion of leaf juice + lime juice extract can be applied.
+Earache - 1to 2 drops of lukewarm juice.
+Wounds - Leaf paste can be applied.
+Tooth ache - Leaf juice drops or paste.
+Cholesterolemia and for immunity - Daily 1 tsp leaf juice.<endOfText>
+<human>Uses of Kumari (Aloe vera)<endOfText>
+<bot>Preparation/Dosage for Medicinal Use:
+Leaf juice is applied for burns, scalds and skin ailments.
+Earache - 2 drops of lukewarm juice.
+Menstrual diseases - 4tsp of juice daily.
+Leaf paste is applied for inflammatory swellings and abscesses.
+Cosmetic - Leaf paste + turmeric face pack.<endOfText>
+<human>Fever-HOME REMEDIES<endOfText>
+<bot>Fever or Jwar is one of the most comprehensively described entity in Ayurveda. Thirteen types of fever are described in Ayurveda - Vataja, Pittaja, Kaphaja, Vata-Pittaja, Vata- Kaphaja, Tridoshaj (intrinsic fevers), Agantuja (extrinsic fever), Kamaja (related to sex), Shokaja (anxiety induced), Vishama jwar (malaria), Krodhaja (anger induced) and Bhuta-vistha (of unknown origin). HOLY BASIL-Tulsi has an antipyretic and diaphoretic activity that helps to induce sweating and normalizes the elevated body temperature during fever.Take about 20 fresh leaves of Holy Basil. Take a small piece of ginger and about 5 grains of black pepper. Boil them together in your tea and drink the warm liquid.<endOfText>
+<human>Diarrhea-HOME REMEDIES<endOfText>
+<bot>This condition is termed as Atisara in Ayurveda. Diarrhoea could be caused by any of the following: intake of foods of any particular quality in excess; foods incompatible with your prakriti or with seasonal variations; intake of foods that are not well cooked; contaminated water or other beverages etc. Further, in Ayurveda, diarrhoea is also described to be induced by mental causes and by toxins. Atisar is classified into 7 distinct types, namely Vataja, Pittaja, Kaphaja, Bhayaja (caused by fear), Tridoshaja, Shokaja (caused by grief) and Raktatisara (diarrhoea associated with bleeding). BUTTERMILK-Buttermilk is an excellent option as acid in it fights germs and bacteria and helps clear stomach. Bananas: Consuming bananas with a little curd is the most traditional home remedy to stop loose and it works wonders.<endOfText>
+<human>Burns-HOME REMEDIES<endOfText>
+<bot>Damage to the skin or deeper tissues caused by sun, hot liquids, fire, electricity or chemicals. The degree of severity of most burns is based on the size and depth of the burn. TURMERIC-Turmeric's anti-bacterial properties can assist in treating minor skin wounds and burns by preventing infection, speeding up the healing process and reducing bruising and scarring.<endOfText>
+<human>Home Remedies for Cough<endOfText>
+<bot>Cough is known as kasa in Ayurveda. Depending upon the involvement of the doshas and other factors, kasa has been defined to be of five types - Vataja, Pittaja, Kaphaja, Kshataj (traumatic) and Kshyaj (tubercular). ALMOND-The vitamin E found in almonds is needed by the immune system to fight off invading bacteria. Nuts are great for helping to prevent colds. Long Pepper, Ginger & Tulsi -To prepare this home remedy for cough, take about 10 grams of each of  long pepper, dried ginger,holy basil leaves. Add 4-6 small cardamoms and grind to yield a fine powder. Consuming this powder with equal amount of honey relieves cough.<endOfText>
+<human>Home Remedies for Cough<endOfText>
+<bot>Black Pepper, Turmeric, Milk & Honey
+For this cough remedy, you will need the following ingredients: Milk, pepper power, turmeric powder, and honey. Take one glass of hot milk. Add 1/2 teaspoon of pepper powder, turmeric powder and honey to it. Mix it well and drink it twice a day for the best result.<endOfText>
+<human>Herbal Supplements<endOfText>
+<bot>Herbal supplements are safe for children & helpful in many cases. For optimum all round health enrich milk with Liquorice and Winter cherry. With Milk -For optimum all round health enrich milk with Liquorice or Winter cherry.
+Improve the milk using selected herbs. Crush the herb into a coarse powder first. Mix it with a small volume of water to obtain a uniform, thick paste. To this paste add milk and boil it. Stir the contents regularly. Then strain it to collect herbalized milk. You could also add sugar to enhance the taste. Ideally the ratio of milk to herb should be 2:1.
+With Honey -Blend a pinch (about 100 mg) of powdered Gotu Kola or Indian Pennyworth with honey and clarified butter to obtain a lickable paste as recommended by Ayurveda. Administer this paste twice a day.<endOfText>
+<human>Summer Care HOME REMEDIES<endOfText>
+<bot>BARLEY-Barley is considered to be a good food for babies, as it is filling, and has plenty of nutritive properties. It is a rich source of dietary fibre, barley can help stimulate digestion and regulate your child’s bowel movements.<endOfText>
+<human>Digestion Problems colic in babies<endOfText>
+<bot>Top feeding sometimes leads to digestive disturbances characterized by flatulence. Should this happen to your baby who is not yet 3 months old, try this simple remedy as an alternative to internal medication. SESAME OIL Sesame oil contains vitamin E, which can help protect skin cells from the damage caused by environmental factors, such as UV rays, pollution, and toxins.It also contains several phenolic compounds, which give it its antioxidant and anti-inflammato<endOfText>
+<human>Dandruff HOME REMEDIES<endOfText>
+<bot>Dandruff is a common scalp condition in which small pieces of dry skin flake off of the scalp. It is a skin condition that causes a dry, scaly scalp, and the skin falls off in white flakes.INDIAN GOOSEBERRY
+Amla is used in a lot of shampoos and conditioners owing to its rich antioxidant & iron content. Indian Gooseberry contains high levels of Vitamin C which helps reduce hair fall. It also strengthens the roots & maintains hair color.NEEM LEAVES
+Neem is extensively used in shampoos and conditioners. Azadirachta Indica has antifungal and antibacterial properties which help eliminate dandruff and strengths your hair.<endOfText>
+<human>Restorative Hair Oil<endOfText>
+<bot>A lightweight blend of herbal products nourishing oils to protect, hydrate, and style your hair.DRIED PETALS OF HIBISCUS Hibiscus is rich in natural pigments, antioxidants, and vitamins that can give a crimson tinge to your grey hair and bring out darker shine to your natural hair color.Japakusum Hair Oil Japakusum or shoeflower hair oil arrests premature graying of hair as recommended by Ayurveda. This oil can even maintain the natural pigment of your hair. This home made Japakusum hair oil can be stored as long as 3 months.<endOfText>
+<human>Dry Skin HOME REMEDIES<endOfText>
+<bot>Indian Ayurveda describes Dry skin as a predomonant trait of Vata constitution. Even in normal people, Vata causes dryness of the skin when it is vitiated due to seasonal influences. This dryness may even extend to the mucous membranes covering the lips and thus cause cracking. Dryness of the skin and the mucous membranes is also caused by certain illnesses like fever. CLARIFIED BUTTER Clarified butter (Ghee) is enriched with vital fatty acids act as a nourishing agent for your dull skin. It helps keep your skin soft and supple and also hydrate your skin cells that helps induce a natural glow.GLYCERIN Glycerin is an extremely well-tolerated, safe, and common ingredient in moisturizers, especially in more sensitive skin types such as eczema or rosacea<endOfText>
+<human>Acne HOME REMEDIES<endOfText>
+<bot>Acne being associated often with adolescence, is termed as Yuvanapidika in Ayurveda. Vitiation of Pitta and Kapha are generally involved in the outburst of pimples. Acne due to Pitta vitiation are generally red, soft, small and tend to be aggravated in hot weather. On the other hand, in a Kapha type, the lesions are pale, hard, fairly large, have an oily secretion and tend to aggravate in cold weather.CUCUMBER For acne-prone skin,cucumber juice can help dilute potent essential oils like tea tree oil. This way you can fight breakouts without drying out or stinging your skin.The juice of the fresh fruit of the Indian gooseberry is taken with clarified butter and honey to purify the blood. If fresh fruit is not available, mix 20 gms powder of the fruit with a teaspoonful of honey and clarified butter, and consume it. This paste is regarded as a potent blood purifier.<endOfText>

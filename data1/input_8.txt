@@ -1,0 +1,301 @@
+<endOfText>
+<human> Can Ayurveda cure serious respiratory conditions like lung cancer?<endOfText>
+<bot> Ayurveda can offer supportive care, but conditions like lung cancer require consultation with an oncologist for appropriate treatment.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of neurological disorders like ALS?<endOfText>
+<bot> Advanced neurological disorders like ALS may need the expertise of a neurologist for comprehensive management.<endOfText>
+<human> Can Ayurveda provide a cure for congenital heart defects in infants?<endOfText>
+<bot> Congenital heart defects often require surgical interventions, and consultation with a pediatric cardiologist is crucial.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric emergencies?<endOfText>
+<bot> Acute psychiatric emergencies should be addressed by mental health professionals; Ayurveda can be complementary but not the sole solution.<endOfText>
+<human> Can Ayurveda cure genetic disorders like Down syndrome?<endOfText>
+<bot> Genetic disorders require specialized medical care; Ayurveda may offer supportive therapies but cannot cure genetic conditions.<endOfText>
+<human> Are there Ayurvedic remedies for treating advanced stages of autoimmune diseases like lupus?<endOfText>
+<bot> Advanced autoimmune diseases may require immunosuppressive medications; consult a rheumatologist for appropriate management.<endOfText>
+<human> Can Ayurveda replace insulin therapy for managing diabetes in children?<endOfText>
+<bot> Insulin therapy is essential for managing diabetes in children; consult with a pediatric endocrinologist for proper care.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing severe cases of traumatic brain injuries?<endOfText>
+<bot> Severe traumatic brain injuries necessitate immediate medical attention; neurosurgeons play a crucial role in the treatment.<endOfText>
+<human> Can Ayurveda cure genetic metabolic disorders in newborns?<endOfText>
+<bot> Genetic metabolic disorders often require lifelong management; consult with a geneticist for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for addressing complex congenital anomalies in newborns?<endOfText>
+<bot> Complex congenital anomalies may need surgical interventions; consult with pediatric surgeons and specialists.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of gastrointestinal cancers?<endOfText>
+<bot> Advanced gastrointestinal cancers often require surgical interventions; consult with an oncologist for appropriate treatment.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like schizophrenia?<endOfText>
+<bot> Acute psychiatric conditions like schizophrenia require psychiatric medications; consult with a psychiatrist for proper treatment.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic skin disorders like epidermolysis bullosa?<endOfText>
+<bot> Severe genetic skin disorders may require multidisciplinary care; consult with dermatologists and geneticists for proper management.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of kidney failure?<endOfText>
+<bot> Advanced kidney failure may require dialysis or transplantation; consult with a nephrologist for appropriate care.<endOfText>
+<human> Can Ayurveda replace antiretroviral therapy for managing HIV/AIDS?<endOfText>
+<bot> Antiretroviral therapy is essential for managing HIV/AIDS; consult with an infectious disease specialist for comprehensive care.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute cardiovascular emergencies like heart attacks?<endOfText>
+<bot> Acute cardiovascular emergencies require immediate medical attention; consult with a cardiologist for prompt intervention.<endOfText>
+<human> Can Ayurveda cure severe cases of hereditary blood disorders like thalassemia?<endOfText>
+<bot> Severe hereditary blood disorders often require lifelong management; consult with a hematologist for proper care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of degenerative joint diseases like osteoarthritis?<endOfText>
+<bot> Advanced osteoarthritis may require joint replacement surgery; consult with an orthopedic surgeon for appropriate treatment.<endOfText>
+<human> Can Ayurveda cure progressive neurological conditions like multiple sclerosis (MS)?<endOfText>
+<bot> Progressive neurological conditions like MS may require disease-modifying drugs; consult with a neurologist for proper care.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like bipolar disorder?<endOfText>
+<bot> Acute psychiatric conditions like bipolar disorder require mood-stabilizing medications; consult with a psychiatrist for proper treatment.<endOfText>
+<human> Can Ayurveda replace chemotherapy for managing advanced stages of leukemia?<endOfText>
+<bot> Advanced leukemia often requires chemotherapy; consult with an oncologist for appropriate cancer care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of liver cirrhosis?<endOfText>
+<bot> Advanced liver cirrhosis may require medical interventions; consult with a hepatologist for proper management.<endOfText>
+<human> Can Ayurveda cure severe cases of rare genetic disorders in children?<endOfText>
+<bot> Severe rare genetic disorders may need specialized medical care; consult with pediatric geneticists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric crises like suicidal ideation?<endOfText>
+<bot> Acute psychiatric crises require immediate intervention; consult with mental health professionals for urgent care.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital heart defects?<endOfText>
+<bot> Complex congenital heart defects often require surgical interventions; consult with pediatric cardiologists and cardiac surgeons.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of pancreatic cancer?<endOfText>
+<bot> Advanced pancreatic cancer may require aggressive treatments; consult with an oncologist for appropriate care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic muscular dystrophies in children?<endOfText>
+<bot> Severe cases of genetic muscular dystrophies may need specialized medical care; consult with neurologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute neurological emergencies like strokes?<endOfText>
+<bot> Acute neurological emergencies like strokes require immediate medical attention; consult with neurologists for prompt intervention.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex spinal cord injuries?<endOfText>
+<bot> Complex spinal cord injuries may require surgical interventions; consult with neurosurgeons and orthopedic specialists.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of autoimmune liver diseases?<endOfText>
+<bot> Advanced autoimmune liver diseases may require immunosuppressive drugs; consult with a hepatologist for appropriate care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic metabolic disorders in infants?<endOfText>
+<bot> Severe cases of genetic metabolic disorders may need specialized medical care; consult with geneticists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe anxiety disorders?<endOfText>
+<bot> Acute psychiatric conditions like severe anxiety disorders may require medication; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of head and neck cancers?<endOfText>
+<bot> Advanced head and neck cancers often require surgical interventions; consult with an oncologist for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of kidney cancers?<endOfText>
+<bot> Advanced kidney cancers may require surgery and other treatments; consult with urologists and oncologists for appropriate care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic eye disorders in children?<endOfText>
+<bot> Severe cases of genetic eye disorders may need specialized medical care; consult with ophthalmologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like acute psychosis?<endOfText>
+<bot> Acute psychiatric conditions like acute psychosis may require antipsychotic medications; consult with a psychiatrist for proper treatment.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex gastrointestinal anomalies in newborns?<endOfText>
+<bot> Complex gastrointestinal anomalies in newborns may require surgical interventions; consult with pediatric surgeons for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of bone cancers?<endOfText>
+<bot> Advanced bone cancers may require surgery, chemotherapy, and other treatments; consult with an oncologist for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic kidney disorders in children?<endOfText>
+<bot> Severe cases of genetic kidney disorders may need specialized medical care; consult with pediatric nephrologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe depression?<endOfText>
+<bot> Acute psychiatric conditions like severe depression may require antidepressant medications; consult with a psychiatrist for proper treatment.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital anomalies in newborns?<endOfText>
+<bot> Complex congenital anomalies in newborns may require surgical interventions; consult with pediatric surgeons for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of breast cancers?<endOfText>
+<bot> Advanced breast cancers may require surgery, chemotherapy, and other treatments; consult with an oncologist for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic liver disorders in children?<endOfText>
+<bot> Severe cases of genetic liver disorders may need specialized medical care; consult with pediatric hepatologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like acute mania?<endOfText>
+<bot> Acute psychiatric conditions like acute mania may require mood-stabilizing medications; consult with a psychiatrist for proper treatment.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of colorectal cancers?<endOfText>
+<bot> Advanced colorectal cancers often require surgical interventions; consult with an oncologist for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of bladder cancers?<endOfText>
+<bot> Advanced bladder cancers may require surgery, chemotherapy, and other treatments; consult with urologists and oncologists for appropriate care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic respiratory disorders in children?<endOfText>
+<bot> Severe cases of genetic respiratory disorders may need specialized medical care; consult with pediatric pulmonologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe panic attacks?<endOfText>
+<bot> Acute psychiatric conditions like severe panic attacks may require medications; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital heart defects in newborns?<endOfText>
+<bot> Complex congenital heart defects in newborns may require surgical interventions; consult with pediatric cardiologists for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of ovarian cancers?<endOfText>
+<bot> Advanced ovarian cancers may require surgery, chemotherapy, and other treatments; consult with gynecologic oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic gastrointestinal disorders in children?<endOfText>
+<bot> Severe cases of genetic gastrointestinal disorders may need specialized medical care; consult with pediatric gastroenterologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe OCD?<endOfText>
+<bot> Acute psychiatric conditions like severe OCD may require medications and therapeutic interventions; consult with mental health professionals for proper treatment.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of liver cancers?<endOfText>
+<bot> Advanced liver cancers often require surgical interventions; consult with hepatobiliary surgeons and oncologists for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of uterine cancers?<endOfText>
+<bot> Advanced uterine cancers may require surgery, chemotherapy, and other treatments; consult with gynecologic oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic neurological disorders in children?<endOfText>
+<bot> Severe cases of genetic neurological disorders may need specialized medical care; consult with pediatric neurologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe PTSD?<endOfText>
+<bot> Acute psychiatric conditions like severe PTSD may require medications and psychotherapy; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital anomalies in newborns?<endOfText>
+<bot> Complex congenital anomalies in newborns may require surgical interventions; consult with pediatric surgeons for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of prostate cancers?<endOfText>
+<bot> Advanced prostate cancers may require surgery, radiation, and other treatments; consult with urologists and oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic kidney disorders in children?<endOfText>
+<bot> Severe cases of genetic kidney disorders may need specialized medical care; consult with pediatric nephrologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe eating disorders?<endOfText>
+<bot> Acute psychiatric conditions like severe eating disorders may require a multidisciplinary approach including medications, therapy, and nutritional counseling; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of stomach cancers?<endOfText>
+<bot> Advanced stomach cancers often require surgical interventions; consult with oncologists and gastrointestinal surgeons for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of pancreatic cancers?<endOfText>
+<bot> Advanced pancreatic cancers may require surgery, chemotherapy, and other treatments; consult with oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic skin disorders in children?<endOfText>
+<bot> Severe cases of genetic skin disorders may need specialized medical care; consult with pediatric dermatologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe personality disorders?<endOfText>
+<bot> Acute psychiatric conditions like severe personality disorders may require a combination of medications and psychotherapy; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital heart defects in newborns?<endOfText>
+<bot> Complex congenital heart defects in newborns may require surgical interventions; consult with pediatric cardiologists for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of cervical cancers?<endOfText>
+<bot> Advanced cervical cancers may require surgery, radiation, and other treatments; consult with gynecologic oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic gastrointestinal disorders in children?<endOfText>
+<bot> Severe cases of genetic gastrointestinal disorders may need specialized medical care; consult with pediatric gastroenterologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe schizophrenia?<endOfText>
+<bot> Acute psychiatric conditions like severe schizophrenia may require antipsychotic medications and comprehensive psychiatric care; consult with mental health professionals for proper treatment.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of liver cancers?<endOfText>
+<bot> Advanced liver cancers often require surgical interventions; consult with hepatobiliary surgeons and oncologists for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of uterine cancers?<endOfText>
+<bot> Advanced uterine cancers may require surgery, chemotherapy, and other treatments; consult with gynecologic oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic neurological disorders in children?<endOfText>
+<bot> Severe cases of genetic neurological disorders may need specialized medical care; consult with pediatric neurologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe PTSD?<endOfText>
+<bot> Acute psychiatric conditions like severe PTSD may require medications and psychotherapy; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital anomalies in newborns?<endOfText>
+<bot> Complex congenital anomalies in newborns may require surgical interventions; consult with pediatric surgeons for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of prostate cancers?<endOfText>
+<bot> Advanced prostate cancers may require surgery, radiation, and other treatments; consult with urologists and oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic kidney disorders in children?<endOfText>
+<bot> Severe cases of genetic kidney disorders may need specialized medical care; consult with pediatric nephrologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe eating disorders?<endOfText>
+<bot> Acute psychiatric conditions like severe eating disorders may require a multidisciplinary approach including medications, therapy, and nutritional counseling; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of stomach cancers?<endOfText>
+<bot> Advanced stomach cancers often require surgical interventions; consult with oncologists and gastrointestinal surgeons for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of pancreatic cancers?<endOfText>
+<bot> Advanced pancreatic cancers may require surgery, chemotherapy, and other treatments; consult with oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic skin disorders in children?<endOfText>
+<bot> Severe cases of genetic skin disorders may need specialized medical care; consult with pediatric dermatologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe personality disorders?<endOfText>
+<bot> Acute psychiatric conditions like severe personality disorders may require a combination of medications and psychotherapy; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital heart defects in newborns?<endOfText>
+<bot> Complex congenital heart defects in newborns may require surgical interventions; consult with pediatric cardiologists for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of cervical cancers?<endOfText>
+<bot> Advanced cervical cancers may require surgery, radiation, and other treatments; consult with gynecologic oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic gastrointestinal disorders in children?<endOfText>
+<bot> Severe cases of genetic gastrointestinal disorders may need specialized medical care; consult with pediatric gastroenterologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe schizophrenia?<endOfText>
+<bot> Acute psychiatric conditions like severe schizophrenia may require antipsychotic medications and comprehensive psychiatric care; consult with mental health professionals for proper treatment.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of liver cancers?<endOfText>
+<bot> Advanced liver cancers often require surgical interventions; consult with hepatobiliary surgeons and oncologists for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of uterine cancers?<endOfText>
+<bot> Advanced uterine cancers may require surgery, chemotherapy, and other treatments; consult with gynecologic oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic neurological disorders in children?<endOfText>
+<bot> Severe cases of genetic neurological disorders may need specialized medical care; consult with pediatric neurologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe PTSD?<endOfText>
+<bot> Acute psychiatric conditions like severe PTSD may require medications and psychotherapy; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital anomalies in newborns?<endOfText>
+<bot> Complex congenital anomalies in newborns may require surgical interventions; consult with pediatric surgeons for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of prostate cancers?<endOfText>
+<bot> Advanced prostate cancers may require surgery, radiation, and other treatments; consult with urologists and oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic kidney disorders in children?<endOfText>
+<bot> Severe cases of genetic kidney disorders may need specialized medical care; consult with pediatric nephrologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe eating disorders?<endOfText>
+<bot> Acute psychiatric conditions like severe eating disorders may require a multidisciplinary approach including medications, therapy, and nutritional counseling; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of stomach cancers?<endOfText>
+<bot> Advanced stomach cancers often require surgical interventions; consult with oncologists and gastrointestinal surgeons for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of pancreatic cancers?<endOfText>
+<bot> Advanced pancreatic cancers may require surgery, chemotherapy, and other treatments; consult with oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic skin disorders in children?<endOfText>
+<bot> Severe cases of genetic skin disorders may need specialized medical care; consult with pediatric dermatologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe personality disorders?<endOfText>
+<bot> Acute psychiatric conditions like severe personality disorders may require a combination of medications and psychotherapy; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital heart defects in newborns?<endOfText>
+<bot> Complex congenital heart defects in newborns may require surgical interventions; consult with pediatric cardiologists for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of cervical cancers?<endOfText>
+<bot> Advanced cervical cancers may require surgery, radiation, and other treatments; consult with gynecologic oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic gastrointestinal disorders in children?<endOfText>
+<bot> Severe cases of genetic gastrointestinal disorders may need specialized medical care; consult with pediatric gastroenterologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe schizophrenia?<endOfText>
+<bot> Acute psychiatric conditions like severe schizophrenia may require antipsychotic medications and comprehensive psychiatric care; consult with mental health professionals for proper treatment.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of liver cancers?<endOfText>
+<bot> Advanced liver cancers often require surgical interventions; consult with hepatobiliary surgeons and oncologists for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of uterine cancers?<endOfText>
+<bot> Advanced uterine cancers may require surgery, chemotherapy, and other treatments; consult with gynecologic oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic neurological disorders in children?<endOfText>
+<bot> Severe cases of genetic neurological disorders may need specialized medical care; consult with pediatric neurologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe PTSD?<endOfText>
+<bot> Acute psychiatric conditions like severe PTSD may require medications and psychotherapy; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital anomalies in newborns?<endOfText>
+<bot> Complex congenital anomalies in newborns may require surgical interventions; consult with pediatric surgeons for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of prostate cancers?<endOfText>
+<bot> Advanced prostate cancers may require surgery, radiation, and other treatments; consult with urologists and oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic kidney disorders in children?<endOfText>
+<bot> Severe cases of genetic kidney disorders may need specialized medical care; consult with pediatric nephrologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe eating disorders?<endOfText>
+<bot> Acute psychiatric conditions like severe eating disorders may require a multidisciplinary approach including medications, therapy, and nutritional counseling; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of stomach cancers?<endOfText>
+<bot> Advanced stomach cancers often require surgical interventions; consult with oncologists and gastrointestinal surgeons for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of pancreatic cancers?<endOfText>
+<bot> Advanced pancreatic cancers may require surgery, chemotherapy, and other treatments; consult with oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic skin disorders in children?<endOfText>
+<bot> Severe cases of genetic skin disorders may need specialized medical care; consult with pediatric dermatologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe personality disorders?<endOfText>
+<bot> Acute psychiatric conditions like severe personality disorders may require a combination of medications and psychotherapy; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital heart defects in newborns?<endOfText>
+<bot> Complex congenital heart defects in newborns may require surgical interventions; consult with pediatric cardiologists for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of cervical cancers?<endOfText>
+<bot> Advanced cervical cancers may require surgery, radiation, and other treatments; consult with gynecologic oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic gastrointestinal disorders in children?<endOfText>
+<bot> Severe cases of genetic gastrointestinal disorders may need specialized medical care; consult with pediatric gastroenterologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe schizophrenia?<endOfText>
+<bot> Acute psychiatric conditions like severe schizophrenia may require antipsychotic medications and comprehensive psychiatric care; consult with mental health professionals for proper treatment.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of liver cancers?<endOfText>
+<bot> Advanced liver cancers often require surgical interventions; consult with hepatobiliary surgeons and oncologists for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of uterine cancers?<endOfText>
+<bot> Advanced uterine cancers may require surgery, chemotherapy, and other treatments; consult with gynecologic oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic neurological disorders in children?<endOfText>
+<bot> Severe cases of genetic neurological disorders may need specialized medical care; consult with pediatric neurologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe PTSD?<endOfText>
+<bot> Acute psychiatric conditions like severe PTSD may require medications and psychotherapy; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic cardiovascular disorders in children?<endOfText>
+<bot> Severe cases of genetic cardiovascular disorders may need specialized medical care; consult with pediatric cardiologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe bipolar disorder?<endOfText>
+<bot> Acute psychiatric conditions like severe bipolar disorder may require mood-stabilizing medications; consult with a psychiatrist for proper treatment.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of bone marrow disorders?<endOfText>
+<bot> Advanced bone marrow disorders may require hematopoietic stem cell transplantation; consult with hematologists for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of esophageal cancers?<endOfText>
+<bot> Advanced esophageal cancers often require surgery, chemotherapy, and other treatments; consult with oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic lung disorders in children?<endOfText>
+<bot> Severe cases of genetic lung disorders may need specialized medical care; consult with pediatric pulmonologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe postpartum depression?<endOfText>
+<bot> Acute psychiatric conditions like severe postpartum depression may require medications and psychotherapy; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital anomalies in newborns?<endOfText>
+<bot> Complex congenital anomalies in newborns may require surgical interventions; consult with pediatric surgeons for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of rectal cancers?<endOfText>
+<bot> Advanced rectal cancers may require surgery, chemotherapy, and other treatments; consult with oncologists and gastrointestinal surgeons for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic kidney disorders in children?<endOfText>
+<bot> Severe cases of genetic kidney disorders may need specialized medical care; consult with pediatric nephrologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe phobias?<endOfText>
+<bot> Acute psychiatric conditions like severe phobias may require exposure therapy and medications; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of brain cancers?<endOfText>
+<bot> Advanced brain cancers often require surgical interventions; consult with neurosurgeons and oncologists for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of liver metastases?<endOfText>
+<bot> Advanced liver metastases may require surgery, chemotherapy, and other treatments; consult with oncologists and hepatobiliary surgeons for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic blood clotting disorders in children?<endOfText>
+<bot> Severe cases of genetic blood clotting disorders may need specialized medical care; consult with hematologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe dissociative disorders?<endOfText>
+<bot> Acute psychiatric conditions like severe dissociative disorders may require psychotherapy and medications; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital heart defects in newborns?<endOfText>
+<bot> Complex congenital heart defects in newborns may require surgical interventions; consult with pediatric cardiologists for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of pancreatic metastases?<endOfText>
+<bot> Advanced pancreatic metastases may require surgery, chemotherapy, and other treatments; consult with oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic skin disorders in children?<endOfText>
+<bot> Severe cases of genetic skin disorders may need specialized medical care; consult with pediatric dermatologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe personality disorders?<endOfText>
+<bot> Acute psychiatric conditions like severe personality disorders may require a combination of medications and psychotherapy; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of colorectal metastases?<endOfText>
+<bot> Advanced colorectal metastases often require surgical interventions; consult with oncologists and gastrointestinal surgeons for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of bladder metastases?<endOfText>
+<bot> Advanced bladder metastases may require surgery, chemotherapy, and other treatments; consult with urologists and oncologists for appropriate care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic respiratory disorders in children?<endOfText>
+<bot> Severe cases of genetic respiratory disorders may need specialized medical care; consult with pediatric pulmonologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe panic attacks?<endOfText>
+<bot> Acute psychiatric conditions like severe panic attacks may require medications; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing complex congenital anomalies in newborns?<endOfText>
+<bot> Complex congenital anomalies in newborns may require surgical interventions; consult with pediatric surgeons for appropriate care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of bone metastases?<endOfText>
+<bot> Advanced bone metastases may require surgery, radiation, and other treatments; consult with oncologists and orthopedic specialists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic kidney disorders in children?<endOfText>
+<bot> Severe cases of genetic kidney disorders may need specialized medical care; consult with pediatric nephrologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe eating disorders?<endOfText>
+<bot> Acute psychiatric conditions like severe eating disorders may require a multidisciplinary approach including medications, therapy, and nutritional counseling; consult with mental health professionals for appropriate care.<endOfText>
+<human> Can Ayurveda replace surgery for managing advanced stages of stomach metastases?<endOfText>
+<bot> Advanced stomach metastases often require surgical interventions; consult with oncologists and gastrointestinal surgeons for comprehensive care.<endOfText>
+<human> Are there Ayurvedic remedies for managing advanced stages of pancreatic metastases?<endOfText>
+<bot> Advanced pancreatic metastases may require surgery, chemotherapy, and other treatments; consult with oncologists for comprehensive care.<endOfText>
+<human> Can Ayurveda cure severe cases of genetic skin disorders in children?<endOfText>
+<bot> Severe cases of genetic skin disorders may need specialized medical care; consult with pediatric dermatologists for proper management.<endOfText>
+<human> Are Ayurvedic remedies sufficient for managing acute psychiatric conditions like severe personality disorders?<endOfText>
+<bot> Acute psychiatric conditions like severe personality disorders may require a combination of medications and psychotherapy; consult with mental health professionals for appropriate care.<endOfText>
