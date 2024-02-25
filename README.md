@@ -1,0 +1,2 @@
+# nanoChatGpt
+nanoChatGpt for Ayurvedic
