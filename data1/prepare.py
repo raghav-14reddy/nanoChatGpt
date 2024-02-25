@@ -17,7 +17,7 @@ def download_file(url):
     print('Error downloading file:', response.status_code)
 
 #download_file('https://huggingface.co/VatsaDev/ChatGpt-nano/resolve/main/Dataset.txt')
-download_file('C:/Users/admin/Desktop/BITS/Capstone Project/nanoChatGPT/data1/input1.txt')
+download_file('https://drive.google.com/file/d/1a_93cU4vm6G4g-TudxxCx0g0DzDRQjY6/view?usp=drive_link')
 
 
 def split_file(filename, output_dir, chunk_size):

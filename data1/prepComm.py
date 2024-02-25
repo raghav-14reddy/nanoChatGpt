@@ -17,7 +17,7 @@ def download_file(url):
     print('Error downloading file:', response.status_code)
 
 #download_file('https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input15.txt')
-download_file('C:/Users/admin/Desktop/BITS/Capstone Project/nanoChatGPT/data1/input13.txt')
+download_file('https://drive.google.com/file/d/1a_93cU4vm6G4g-TudxxCx0g0DzDRQjY6/view?usp=drive_link')
 
 def split_file(filename, output_dir, chunk_size):
   if not os.path.exists(output_dir):
